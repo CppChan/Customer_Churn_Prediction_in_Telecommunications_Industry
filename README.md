@@ -1,3 +1,5 @@
+## Customer Churn Prediction in Telecommunications Industry
+
 Developed supervised learning algorithms for telecommunications service vendors to predict customer churn probability
 
 1.Preprocessed data set by data cleaning and classifying, correlation analysis, standardization, visualization, etc.
